@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357409742565",
+    "project_id": "android-b-17",
+    "storage_bucket": "android-b-17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357409742565:android:2467902f8368e95ceb3e0c",
+        "android_client_info": {
+          "package_name": "com.live.programming.an15_notebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357409742565-6e533a5k8hgcg9d099gv039fm8knvtoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmpFBSMQx0BkEzohIBBAekr390FiGzAWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357409742565-6e533a5k8hgcg9d099gv039fm8knvtoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
